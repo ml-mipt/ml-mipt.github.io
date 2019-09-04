@@ -9,6 +9,8 @@ navigation: 1
 This course aims to introduce students to contemporary state of Machine Learinig and Artificial Intelligence.
 It is designed to take one year (two terms at MIPT) - approximatly 2 * 15 lectures and seminars.
 
+For materials see [`github repository`](https://github.com/ml-mipt/ml-mipt)
+
 ## Communication
 
 We make announsments on lectures and seminars and are glad to answer your questions regarding theory or homeworks.
