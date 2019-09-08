@@ -8,6 +8,8 @@ navigation: 4
 
 ## Radoslav Neychev
 
+![Neychev](/img/neychev.png)
+
 MIPT, Harbour.Space.
 
 Radoslav Neychev is a data scientist with focus on Deep Learning and Reinforcement Learning techniques. He has worked on a variety of research (CERN LHCb, MIPT Machine Intelligence Lab, CC RAS) and industrial projects (Yandex, RaiffeisenBank) in different domains vary from particle identification problem to fraudulent transactions detection.
