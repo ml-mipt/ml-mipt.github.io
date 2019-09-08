@@ -18,6 +18,8 @@ Radoslav graduated from Moscow Institute of Physics and Technology, majoring in 
 
 ## Vladislav Goncharenko
 
+![Goncharenko](/img/goncharenko.jpg)
+
 MIPT, Skoltech.
 
 Trains neural nets for [VR games with BCI control](https://impulse-neiry.com/). Previously worked on Computer Vision problems at MIPT.
@@ -25,6 +27,8 @@ Trains neural nets for [VR games with BCI control](https://impulse-neiry.com/). 
 Email: vladislav.goncharenko@phystech.edu
 
 ## Stanislav Okrug
+
+![Okrug](/img/okrug.png)
 
 MIPT, YSDA.
 
@@ -37,6 +41,8 @@ Email: okrug.sa@phystech.edu | @konagmo
 
 ## Mikhail Pautov
 
+![Pautov](/img/pautov.jpg)
+
 MIPT, Skoltech.
 
 Data Scientist at Skoltech; numerical analysis researcher. Previously worked  at Huawei on problem of real-world adversarial attacks on face recognition systems.
@@ -44,6 +50,8 @@ Data Scientist at Skoltech; numerical analysis researcher. Previously worked  at
 Email: mikepautov@gmail.com
 
 ## Anastasia Yanina
+
+![Yanina](/img/yanina.png)
 
 MIPT, YSDA. Research Scientist at Samsung AI Center
 Ex. Yandex.Search, also worked on self-driving cars at [Lyft Level 5](https://level5.lyft.com/)
@@ -66,11 +74,15 @@ Email: mokrov.ns@phystech.edu | Telegram: @tismoney
 
 ## Iurii Efimov
 
+![Efimov](/img/efimov.png)
+
 MIPT. Research Engineer at Samsung Research Russia.
 
 Email: yuri.efimov@phystech.edu | Telegram: @gagarinsname
 
 ## Nikolay Karpachev
+
+![Karpachev](/img/karpachev.jpg)
 
 MIPT.
 
