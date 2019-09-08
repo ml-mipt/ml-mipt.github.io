@@ -28,7 +28,7 @@ Email: vladislav.goncharenko@phystech.edu
 
 ## Stanislav Okrug
 
-![Okrug](/img/okrug.png =x200)
+<img src="/img/okrug.png" alt="Okrug" height="200"/>
 
 MIPT, YSDA.
 
@@ -41,7 +41,7 @@ Email: okrug.sa@phystech.edu | @konagmo
 
 ## Mikhail Pautov
 
-![Pautov](/img/pautov.jpg =x200)
+<img src="/img/pautov.jpg" alt="Pautov" height="200"/>
 
 MIPT, Skoltech.
 
@@ -51,7 +51,7 @@ Email: mikepautov@gmail.com
 
 ## Anastasia Yanina
 
-![Yanina](/img/yanina.png =x200)
+<img src="/img/yanina.png" alt="Yanina" height="200"/>
 
 MIPT, YSDA. Research Scientist at Samsung AI Center
 Ex. Yandex.Search, also worked on self-driving cars at [Lyft Level 5](https://level5.lyft.com/)
@@ -74,7 +74,7 @@ Email: mokrov.ns@phystech.edu | Telegram: @tismoney
 
 ## Iurii Efimov
 
-![Efimov](/img/efimov.png =x200)
+<img src="/img/efimov.png" alt="Efimov" height="200"/>
 
 MIPT. Research Engineer at Samsung Research Russia.
 
@@ -82,7 +82,7 @@ Email: yuri.efimov@phystech.edu | Telegram: @gagarinsname
 
 ## Nikolay Karpachev
 
-![Karpachev](/img/karpachev.jpg =x200)
+<img src="/img/karpachev.jpg" alt="Karpachev" height="200"/>
 
 MIPT.
 
