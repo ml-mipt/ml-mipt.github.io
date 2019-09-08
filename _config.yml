@@ -1,6 +1,6 @@
-title: Millidocs Theme
-description: Documentation for small projects
-url: "https://github.com/alexander-heimbuch/millidocs" # the base hostname & protocol for your site, e.g. http://example.com
+title: ML-MIPT
+description: Machine Learning courses at MIPT
+url: "https://ml-mipt.github.io"
 remote_theme: alexander-heimbuch/millidocs
 
 # Build settings
@@ -10,8 +10,6 @@ kramdown:
     disable : true
 
 exclude:
-  - Gemfile
-  - Gemfile.lock
   - README.md
 
 sass:
