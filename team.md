@@ -8,7 +8,7 @@ navigation: 4
 
 ## Radoslav Neychev
 
-![Neychev](/img/neychev.png =x200)
+<img src="/img/neychev.png" alt="Neychev" height="200"/>
 
 MIPT, Harbour.Space.
 
@@ -18,7 +18,7 @@ Radoslav graduated from Moscow Institute of Physics and Technology, majoring in 
 
 ## Vladislav Goncharenko
 
-![Goncharenko](/img/goncharenko.jpg =x200)
+<img src="/img/goncharenko.jpg" alt="Goncharenko" height="200"/>
 
 MIPT, Skoltech.
 
