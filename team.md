@@ -8,7 +8,7 @@ navigation: 4
 
 ## Radoslav Neychev
 
-![Neychev](/img/neychev.png)
+![Neychev](/img/neychev.png =x200)
 
 MIPT, Harbour.Space.
 
@@ -18,7 +18,7 @@ Radoslav graduated from Moscow Institute of Physics and Technology, majoring in 
 
 ## Vladislav Goncharenko
 
-![Goncharenko](/img/goncharenko.jpg)
+![Goncharenko](/img/goncharenko.jpg =x200)
 
 MIPT, Skoltech.
 
@@ -28,7 +28,7 @@ Email: vladislav.goncharenko@phystech.edu
 
 ## Stanislav Okrug
 
-![Okrug](/img/okrug.png)
+![Okrug](/img/okrug.png =x200)
 
 MIPT, YSDA.
 
@@ -41,7 +41,7 @@ Email: okrug.sa@phystech.edu | @konagmo
 
 ## Mikhail Pautov
 
-![Pautov](/img/pautov.jpg)
+![Pautov](/img/pautov.jpg =x200)
 
 MIPT, Skoltech.
 
@@ -51,7 +51,7 @@ Email: mikepautov@gmail.com
 
 ## Anastasia Yanina
 
-![Yanina](/img/yanina.png)
+![Yanina](/img/yanina.png =x200)
 
 MIPT, YSDA. Research Scientist at Samsung AI Center
 Ex. Yandex.Search, also worked on self-driving cars at [Lyft Level 5](https://level5.lyft.com/)
@@ -74,7 +74,7 @@ Email: mokrov.ns@phystech.edu | Telegram: @tismoney
 
 ## Iurii Efimov
 
-![Efimov](/img/efimov.png)
+![Efimov](/img/efimov.png =x200)
 
 MIPT. Research Engineer at Samsung Research Russia.
 
@@ -82,7 +82,7 @@ Email: yuri.efimov@phystech.edu | Telegram: @gagarinsname
 
 ## Nikolay Karpachev
 
-![Karpachev](/img/karpachev.jpg)
+![Karpachev](/img/karpachev.jpg =x200)
 
 MIPT.
 
