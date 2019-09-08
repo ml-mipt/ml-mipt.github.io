@@ -12,6 +12,10 @@ Lectures: 17.00 to 18.20 at 115КПМ
 
 Seminars: 18.30 to 20.00 at classromms (will be announced later)
 
+## Materials
+
+are being published on [the dedicated branch](https://github.com/ml-mipt/ml-mipt/tree/basic)
+
 ## Communication
 
 * [alerts channel](https://t.me/joinchat/AAAAAE1tPnqyy_MRW2vGcw)

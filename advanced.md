@@ -16,6 +16,10 @@ Lectures: 09.00 to 10.20 at lecture room
 
 Seminars: 10.30 to 12.00 at classromms
 
+## Materials
+
+are being published on [the dedicated branch](https://github.com/ml-mipt/ml-mipt/tree/advanced)
+
 ## Communication
 
 * [alerts channel](https://t.me/joinchat/AAAAAFXL9Iol02HTHWBIBQ)

@@ -13,6 +13,10 @@ Video lectures: [`youtube playlist`](https://www.youtube.com/playlist?list=PL4_h
 
 Complete course materials: [`github repository`](https://github.com/ml-mipt/ml-mipt)
 
+## Current launches
+
+As of Spring 2019 we have two flows: [`basic`](basic.md) and [`advanced`](advanced.md).
+
 ## Communication
 
 We make announsments on lectures and seminars and are glad to answer your questions regarding theory or homeworks.
