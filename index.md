@@ -9,13 +9,18 @@ navigation: 1
 This course aims to introduce students to contemporary state of Machine Learinig and Artificial Intelligence.
 It is designed to take one year (two terms at MIPT) - approximatly 2 * 15 lectures and seminars.
 
-Video lectures: [`youtube playlist`](https://www.youtube.com/playlist?list=PL4_hYwCyhAvasRqzz4w562ce0esEwS0Mt)
+## Video lectures: 
 
-Complete course materials: [`github repository`](https://github.com/ml-mipt/ml-mipt)
+* basic track (Spring 2019): [`youtube playlist`](https://www.youtube.com/playlist?list=PL4_hYwCyhAvasRqzz4w562ce0esEwS0Mt)
+* advanced track (Fall 2019, in progress): [`youtube playlist`](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZeq93ssEUaR47xhvs7IhJM)
+
+
+## Complete course materials: [`github repository`](https://github.com/ml-mipt/ml-mipt).
+Master branch conctains only `basic` track materials. `Advanced` track materials are in WIP state and will be added to master branch later (ETA: December 2019).
 
 ## Current launches
 
-As of Spring 2019 we have two flows: [`basic`](basic.md) and [`advanced`](advanced.md).
+As of Spring 2019 we have two tracks: [`basic`](basic.md) and [`advanced`](advanced.md).
 
 ## Communication
 
