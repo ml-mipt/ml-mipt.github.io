@@ -9,8 +9,8 @@ navigation: 3
 ## Schedule
 
 Place:
-1C training cener,
-Дмитровское шоссе, 9
+1C training center, 
+Дмитровское шоссе, 9, [link on map](https://yandex.ru/maps/-/CGWnfBNd)
 
 Lectures: 09.00 to 10.20 at lecture room
 
