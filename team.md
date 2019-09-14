@@ -26,6 +26,40 @@ Trains neural nets for [VR games with BCI control](https://impulse-neiry.com/). 
 
 Email: vladislav.goncharenko@phystech.edu
 
+## Nikolay Karpachev
+
+<img src="/img/karpachev.jpg" alt="Karpachev" height="200"/>
+
+MIPT.
+
+ML Developer at Yandex currently working on machine translation quality. Previously did research on multimodal neural architectures for computer vision.
+
+Email: nikolay.karpachev@phystech.edu
+
+## Iurii Efimov
+
+<img src="/img/efimov.png" alt="Efimov" height="200"/>
+
+MIPT. Research Engineer at Samsung Research Russia.
+
+Email: yuri.efimov@phystech.edu | Telegram: @gagarinsname
+
+## Anastasia Yanina
+
+<img src="/img/yanina.png" alt="Yanina" height="200"/>
+
+MIPT, YSDA. Research Scientist at Samsung AI Center
+Ex. Yandex.Search, also worked on self-driving cars at [Lyft Level 5](https://level5.lyft.com/)
+
+Anastasia takes part in creating online and offline educational ML courses:
+ - Coursera NLP specialisation
+ - Stepik online course “Deep Learning in NLP”
+ - [“Deep Learning in Applications”, Harbour.Space University, Barcelona](https://in.harbour.space/data-science/deep-learning-in-applications-radoslav-neychev-anastasia-ianina/)
+ - Online course “Dynamic Neural Networks in PyTorch” (Packt Publishing)
+
+Email: yanina@phystech.edu | Telegram: @yanina_nastya
+
+
 ## Stanislav Okrug
 
 <img src="/img/okrug.png" alt="Okrug" height="200"/>
@@ -49,21 +83,6 @@ Data Scientist at Skoltech; numerical analysis researcher. Previously worked  at
 
 Email: mikepautov@gmail.com
 
-## Anastasia Yanina
-
-<img src="/img/yanina.png" alt="Yanina" height="200"/>
-
-MIPT, YSDA. Research Scientist at Samsung AI Center
-Ex. Yandex.Search, also worked on self-driving cars at [Lyft Level 5](https://level5.lyft.com/)
-
-Anastasia takes part in creating online and offline educational ML courses:
- - Coursera NLP specialisation
- - Stepik online course “Deep Learning in NLP”
- - [“Deep Learning in Applications”, Harbour.Space University, Barcelona](https://in.harbour.space/data-science/deep-learning-in-applications-radoslav-neychev-anastasia-ianina/)
- - Online course “Dynamic Neural Networks in PyTorch” (Packt Publishing)
-
-Email: yanina@phystech.edu | Telegram: @yanina_nastya
-
 ## Mokrov Nikita
 
 MIPT, Skoltech. Researcher at Skoltech. 
@@ -71,21 +90,3 @@ MIPT, Skoltech. Researcher at Skoltech.
 Ex. Data Scientist at Diginetica, worked with Recommender Systems and implement their for retail companies. Also Nikita takes part in education project of machine and deep learning (e.g. DL School)
 
 Email: mokrov.ns@phystech.edu | Telegram: @tismoney
-
-## Iurii Efimov
-
-<img src="/img/efimov.png" alt="Efimov" height="200"/>
-
-MIPT. Research Engineer at Samsung Research Russia.
-
-Email: yuri.efimov@phystech.edu | Telegram: @gagarinsname
-
-## Nikolay Karpachev
-
-<img src="/img/karpachev.jpg" alt="Karpachev" height="200"/>
-
-MIPT.
-
-ML Developer at Yandex currently working on machine translation quality. Previously did research on multimodal neural architectures for computer vision.
-
-Email: nikolay.karpachev@phystech.edu
