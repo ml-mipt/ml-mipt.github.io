@@ -10,7 +10,7 @@ navigation: 3
 
 Place:
 1C training center, 
-Дмитровское шоссе, 9, [link on map](https://yandex.ru/maps/-/CGWnfBNd)
+Дмитровское шоссе, 9, [show on map](https://yandex.ru/maps/-/CGWnfBNd)
 
 Lectures: 09.00 to 10.20 at lecture room
 
@@ -19,6 +19,14 @@ Seminars: 10.30 to 12.00 at classromms
 ## Materials
 
 are being published on [the dedicated branch](https://github.com/ml-mipt/ml-mipt/tree/advanced)
+
+## Credits (ECTS)
+
+Количество зачётных единиц: 3
+
+Формальное название курса: `Прикладное машинное обучение`
+
+Кафедра: `Алгоритмов и технологий программирования (АТП)`
 
 ## Communication
 

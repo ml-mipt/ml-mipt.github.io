@@ -16,6 +16,14 @@ Seminars: 18.30 to 20.00 at classromms (will be announced later)
 
 are being published on [the dedicated branch](https://github.com/ml-mipt/ml-mipt/tree/basic)
 
+## Credits (ECTS)
+
+Количество зачётных единиц: 2
+
+Формальное название курса: `Машинное обучение`
+
+Кафедра: `Математических основ управления (МОУ)`
+
 ## Communication
 
 * [alerts channel](https://t.me/joinchat/AAAAAE1tPnqyy_MRW2vGcw)
