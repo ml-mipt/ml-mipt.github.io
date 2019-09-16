@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: Info
 navigation: 1
 ---
