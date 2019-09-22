@@ -6,8 +6,8 @@ navigation: 1
 
 # Machine Learning course at MIPT
 
-This course aims to introduce students to contemporary state of Machine Learinig and Artificial Intelligence.
-It is designed to take one year (two terms at MIPT) - approximatly 2 * 15 lectures and seminars.
+This course aims to introduce students to contemporary state of Machine Learning and Artificial Intelligence.
+It is designed to take one year (two terms at MIPT) - approximately 2 * 15 lectures and seminars.
 
 ## Video lectures: 
 
@@ -16,7 +16,7 @@ It is designed to take one year (two terms at MIPT) - approximatly 2 * 15 lectur
 
 
 ## Complete course materials: [`github repository`](https://github.com/ml-mipt/ml-mipt)
-Master branch conctains only `basic` track materials. `Advanced` track materials are in WIP state and will be added to master branch later (ETA: December 2019).
+Master branch contains only `basic` track materials. `Advanced` track materials are in WIP state and will be added to master branch later (ETA: December 2019).
 
 ## Current launches
 
@@ -24,22 +24,22 @@ As of Fall 2019 we have two tracks: [`basic`](basic.md) and [`advanced`](advance
 
 ## Communication
 
-We make announsments on lectures and seminars and are glad to answer your questions regarding theory or homeworks.
+We make announcements on lectures and seminars and are glad to answer your questions regarding theory or homework.
 
-Also for each launnch we provide two Telegram resourses:
+Also for each launch we provide two Telegram resourсes:
 * Alerts channel
-     announsments of important events: schedule changing, deadlines, etc.
-     read this channel regulary to stay tuned
+     announcements of important events: schedule changing, deadlines, etc.
+     read this channel regularly to stay tuned
 * Course chat
-    answers on your questions, course topic discussions and so on
-We do advice you to join both of them, relevant liks are available on level pages.
+    answers to your questions, course topic discussions and so on
+We do advise you to join both of them, relevant links are available on level pages.
 
 ### Rules
 
 We ask you:
 - don't flood: chat contains lots of people - respect their time and attention.
     This especially regards tutors because we try to carefully read and respond to every message.
-- don't spoil homeworks' solutions. Discuss common approaches or specific topics.
+- don't spoil homework solutions. Discuss common approaches or specific topics.
 - don't use foul language (including stickers), don't be rude. Respect each other, be constructive.
 - try not to write direct messages to tutors because you are numerous but we are not. If you want to call particular person or draw attention use `@mention`
 
