@@ -16,6 +16,17 @@ Radoslav Neychev is a data scientist with focus on Deep Learning and Reinforceme
 
 Radoslav graduated from Moscow Institute of Physics and Technology, majoring in Applied Mathematics and Machine Learning. Radoslav is reading lectures and organising practical classes at Russian top-tier universities, tech companies and summer schools.
 
+Educational courses:
+ - Machine Learning course, MIPT ([ml-mipt](https://ml-mipt.github.io/))
+ - Data Science course, HSE
+ - [“Deep Learning in Applications”, Harbour.Space University, Barcelona](https://in.harbour.space/data-science/deep-learning-in-applications-radoslav-neychev-anastasia-ianina/)
+ - [BigData Team ML course](https://bigdatateam.org/ml_course)
+ - Variety of onsite ML and DL courses in Russian tech companies (e.g. Sberbank, Megafon)
+ - CDO track instructor at [Ostrov10-22](https://ostrov.2035.university/)
+ - DL instructor at [Yessenov Data Lab 2019](https://yessenovfoundation.org/en/o-fonde/programmyi/resursyi/razvitie-it-kompetentsiy/yessenov-data-lab-2019/)
+ - Consultant in online course “Dynamic Neural Networks in PyTorch” (Packt Publishing)
+
+
 [LinkedIn profile](https://www.linkedin.com/in/radoslav-neychev/)
 
 Email: neychev@phystech.edu
