@@ -16,6 +16,8 @@ Radoslav Neychev is a data scientist with focus on Deep Learning and Reinforceme
 
 Radoslav graduated from Moscow Institute of Physics and Technology, majoring in Applied Mathematics and Machine Learning. Radoslav is reading lectures and organising practical classes at Russian top-tier universities, tech companies and summer schools.
 
+Email: neychev@phystech.edu
+
 ## Vladislav Goncharenko
 
 <img src="/img/goncharenko.jpg" alt="Goncharenko" height="200"/>
@@ -42,7 +44,7 @@ Email: nikolay.karpachev@phystech.edu
 
 MIPT. Research Engineer at Samsung Research Russia.
 
-Email: yuri.efimov@phystech.edu | Telegram: @gagarinsname
+Email: yuri.efimov@phystech.edu
 
 ## Anastasia Yanina
 
@@ -57,21 +59,7 @@ Anastasia takes part in creating online and offline educational ML courses:
  - [“Deep Learning in Applications”, Harbour.Space University, Barcelona](https://in.harbour.space/data-science/deep-learning-in-applications-radoslav-neychev-anastasia-ianina/)
  - Online course “Dynamic Neural Networks in PyTorch” (Packt Publishing)
 
-Email: yanina@phystech.edu | Telegram: @yanina_nastya
-
-
-## Stanislav Okrug
-
-<img src="/img/okrug.png" alt="Okrug" height="200"/>
-
-MIPT, YSDA.
-
-Computer Vision engineer at Y-Comb startup. Ex researcher at IITP RAS, fullstack at Gazprom Neft. 
-Current interests - human pose estimation.
-Previously worked on 3D human brain representations, deep embedding losses and gaussian process regression techniques.
-Recently won 9 major hackathons and 6 more times hit top-3.
-
-Email: okrug.sa@phystech.edu | @konagmo
+Email: yanina@phystech.edu 
 
 ## Mikhail Pautov
 
@@ -89,4 +77,4 @@ MIPT, Skoltech. Researcher at Skoltech.
 
 Ex. Data Scientist at Diginetica, worked with Recommender Systems and implement their for retail companies. Also Nikita takes part in education project of machine and deep learning (e.g. DL School)
 
-Email: mokrov.ns@phystech.edu | Telegram: @tismoney
+Email: mokrov.ns@phystech.edu
