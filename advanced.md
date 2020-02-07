@@ -28,6 +28,5 @@ are being published on [the dedicated branch](https://github.com/ml-mipt/ml-mipt
 
 ## Communication
 
-TBD
-* [alerts channel]()
-* [students chat]()
+* [alerts channel](https://t.me/joinchat/AAAAAE1tPnqyy_MRW2vGcw)
+* [students chat](https://t.me/joinchat/Ak0SzlDRKN9CaS2pGDRQPg)
