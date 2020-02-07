@@ -12,9 +12,9 @@ Place:
 1C training center, 
 Дмитровское шоссе, 9, [show on map](https://yandex.ru/maps/-/CGWnfBNd)
 
-Lectures: every Friday, 09.00 to 10.20 at lecture room
+Lectures: every Tuesday, 09.00 to 10.20 at lecture room
 
-Seminars: every Friday, 10.30 to 12.00 at classromms
+Seminars: every Tuesday, 10.30 to 12.00 at classromms
 
 ## Materials
 
