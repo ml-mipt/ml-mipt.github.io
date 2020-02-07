@@ -11,16 +11,15 @@ It is designed to take one year (two terms at MIPT) - approximately 2 * 15 lectu
 
 ## Video lectures: 
 
-* basic track (Spring 2019): [`youtube playlist`](https://www.youtube.com/playlist?list=PL4_hYwCyhAvasRqzz4w562ce0esEwS0Mt)
-* advanced track (Fall 2019, in progress): [`youtube playlist`](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZeq93ssEUaR47xhvs7IhJM)
-
+* basic track (Spring 2019): [`Lectures youtube playlist`](https://www.youtube.com/playlist?list=PL4_hYwCyhAvasRqzz4w562ce0esEwS0Mt)
+* advanced track (Fall 2019): [`Lectures youtube playlist`](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZeq93ssEUaR47xhvs7IhJM), [`Practice sessions youtube playlist`](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYvuHz_PKlEV-kOsK2bwUBg)
 
 ## Complete course materials: [`github repository`](https://github.com/ml-mipt/ml-mipt)
-Master branch contains only `basic` track materials. `Advanced` track materials are in WIP state and will be added to master branch later (ETA: December 2019).
+
 
 ## Current launches
 
-As of Fall 2019 we have two tracks: [`basic`](basic.md) and [`advanced`](advanced.md).
+As of Spring 2020 we have two tracks: [`basic`](basic.md) and [`advanced`](advanced.md).
 
 ## Communication
 
