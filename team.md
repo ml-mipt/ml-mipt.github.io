@@ -80,6 +80,18 @@ Anastasia takes part in creating online and offline educational ML courses:
 
 Email: yanina@phystech.edu 
 
+## Ivan Provilkov
+
+<img src="/img/provilkov.png" alt="Provilkov" height="200"/>
+
+MIPT, Yandex, STAI.
+
+Ivan does research at Yandex with the main focuses on Deep Learning, Natural Language Processing and Uncertainty Estimation. Also he solves industrial machine learning problems at Steinbeis STAI and teaches at MIPT and YSDA. Previously he did research and industrial projects in machine translation, recommendation systems and physical particles detection.
+
+[LinkedIn profile](https://www.linkedin.com/in/ivan-provilkov-7b6455175/)
+
+Email: provilkov.is@phystech.edu
+
 ## Mikhail Pautov
 
 <img src="/img/pautov.jpg" alt="Pautov" height="200"/>
