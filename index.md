@@ -11,8 +11,9 @@ It is designed to take one year (two terms at MIPT) - approximately 2 * 15 lectu
 
 ## Video lectures: 
 
-* basic track (Spring 2019): [`Lectures youtube playlist`](https://www.youtube.com/playlist?list=PL4_hYwCyhAvasRqzz4w562ce0esEwS0Mt)
+* basic track (updated) (Spring 2020): [`Lectures youtube playlist`](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj), [`Practice sessions youtube playlist`](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYPOWn6e44RKxEfRWEsPA1z)
 * advanced track (Fall 2019): [`Lectures youtube playlist`](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZeq93ssEUaR47xhvs7IhJM), [`Practice sessions youtube playlist`](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYvuHz_PKlEV-kOsK2bwUBg)
+* basic track (Spring 2019): [`Lectures youtube playlist`](https://www.youtube.com/playlist?list=PL4_hYwCyhAvasRqzz4w562ce0esEwS0Mt)
 
 ## Complete course materials: [`github repository`](https://github.com/ml-mipt/ml-mipt)
 
