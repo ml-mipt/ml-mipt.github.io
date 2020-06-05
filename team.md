@@ -19,7 +19,8 @@ Radoslav graduated from Moscow Institute of Physics and Technology, majoring in 
 Educational courses:
  - Machine Learning course, MIPT ([ml-mipt](https://ml-mipt.github.io/))
  - Data Science course, HSE
- - [“Deep Learning in Applications”, Harbour.Space University, Barcelona](https://in.harbour.space/data-science/deep-learning-in-applications-radoslav-neychev-anastasia-ianina/)
+ - [“Machine Learning”](https://in.harbour.space/data-science/machine-learning-radoslav-neychev-vladislav-goncharenko/) and [“Deep Learning in Applications”](https://in.harbour.space/data-science/deep-learning-in-applications-radoslav-neychev-anastasia-ianina/) at Harbour.Space University, Barcelona
+ - [Natural Language Processing course](https://github.com/neychev/made_nlp_course) at made – Mail.ru Big Data Academy
  - [BigData Team ML course](https://bigdatateam.org/ml_course)
  - Variety of onsite ML and DL courses in Russian tech companies (e.g. Sberbank, Megafon)
  - CDO track instructor at [Ostrov10-22](https://ostrov.2035.university/)
@@ -104,7 +105,10 @@ Data Scientist at Skoltech; numerical analysis researcher. Previously worked  at
 
 Email: mikepautov@gmail.com
 
-## Mokrov Nikita
+
+## Ex-teaching assistants:
+
+### Mokrov Nikita
 
 MIPT, Skoltech. Researcher at Skoltech. 
 
