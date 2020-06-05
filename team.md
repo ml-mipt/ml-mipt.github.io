@@ -16,10 +16,10 @@ Radoslav is Data Scientist with focus on Deep Learning and Reinforcement Learnin
 
 Radoslav graduated from Moscow Institute of Physics and Technology, majoring in Applied Mathematics and Machine Learning. Radoslav is reading lectures and organising practical classes at Russian top-tier universities, tech companies and summer schools.
 
-Educational courses:
+Educational activities:
  - Machine Learning course, MIPT ([ml-mipt](https://ml-mipt.github.io/))
  - Data Science course, HSE
- - [“Machine Learning”](https://in.harbour.space/data-science/machine-learning-radoslav-neychev-vladislav-goncharenko/) and [“Deep Learning in Applications”](https://in.harbour.space/data-science/deep-learning-in-applications-radoslav-neychev-anastasia-ianina/) at Harbour.Space University, Barcelona
+ - [“Machine Learning”](https://in.harbour.space/data-science/machine-learning-radoslav-neychev-vladislav-goncharenko/) and [“Deep Learning in Applications”](https://in.harbour.space/data-science/deep-learning-in-applications-radoslav-neychev-anastasia-ianina/) courses at Harbour.Space University, Barcelona
  - [Natural Language Processing course](https://github.com/neychev/made_nlp_course) at made – Mail.ru Big Data Academy
  - [BigData Team ML course](https://bigdatateam.org/ml_course)
  - Variety of onsite ML and DL courses in Russian tech companies (e.g. Sberbank, Megafon)
