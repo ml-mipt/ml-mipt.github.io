@@ -18,7 +18,7 @@ Seminars: every Tuesday, 10.30 to 12.00 at classromms
 
 ## Materials
 
-are being published on [the dedicated branch](https://github.com/ml-mipt/ml-mipt/tree/basic_s20)
+are being published on [the dedicated branch](https://github.com/girafe-ai/ml-mipt/tree/basic_s20)
 
 ## Credits (ECTS)
 
