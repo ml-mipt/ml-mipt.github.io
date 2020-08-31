@@ -10,7 +10,7 @@ This course aims to introduce students to contemporary state of Machine Learning
 It is designed to take one year (two terms at MIPT) - approximately 2 * 15 lectures and seminars.
 
 ## Video lectures: 
-
+* advanced track (updated) (Fall 2020): *Link will be added soon*
 * basic track (updated) (Spring 2020): [`Lectures youtube playlist`](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj), [`Practice sessions youtube playlist`](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYPOWn6e44RKxEfRWEsPA1z)
 * advanced track (Fall 2019): [`Lectures youtube playlist`](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZeq93ssEUaR47xhvs7IhJM), [`Practice sessions youtube playlist`](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYvuHz_PKlEV-kOsK2bwUBg)
 * basic track (Spring 2019): [`Lectures youtube playlist`](https://www.youtube.com/playlist?list=PL4_hYwCyhAvasRqzz4w562ce0esEwS0Mt)
@@ -20,7 +20,7 @@ It is designed to take one year (two terms at MIPT) - approximately 2 * 15 lectu
 
 ## Current launches
 
-As of Spring 2020 we have two tracks: [`basic`](basic.md) and [`advanced`](advanced.md).
+As of Fall 2020 we have two tracks: [`basic`](basic.md) and [`advanced`](advanced.md).
 
 ## Communication
 
