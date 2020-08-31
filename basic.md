@@ -13,7 +13,6 @@ This information is relevant for Fall 2020 launch.
 Lectures: every Modnay, 17.00 to 18.20 at 115КПМ
 
 Seminars: every Monday, 18.30 to 20.00 at classromms (check in 115КПМ)
-ap](https://yandex.ru/maps/-/CGWnfBNd)
 
 ## Materials
 
