@@ -5,28 +5,34 @@ navigation: 3
 ---
 
 # Part two: advanced
-This information is actual for Spring 2020 launch.
+This information is relevant for Fall 2020 launch.
 
 ## Schedule
 
-Lectures: every Modnay, 17.00 to 18.20 at 115КПМ
+**All classes in Fall 2020 are held online due to COVID-19**
 
-Seminars: every Monday, 18.30 to 20.00 at classromms (check in 115КПМ)
+Location:
+1C training center, 
+Дмитровское шоссе, 9, [show on map](https://yandex.ru/maps/-/CGWnfBNd)
+
+Lectures: every Tuesday, 09.00 to 10.20 at lecture room
+
+Seminars: every Tuesday, 10.30 to 12.00 at classromms
 
 ## Materials
 
-are being published on [the dedicated branch](https://github.com/girafe-ai/ml-mipt/tree/advanced_s20)
+are being published on [the dedicated branch](https://github.com/girafe-ai/ml-mipt/tree/advanced_f20)
 
 ## Credits (ECTS)
 
 Количество зачётных единиц: 2
 
-Формальное название курса: `Машинное обучение`
+Формальное название курса: `Прикладное Машинное обучение`
 
-Кафедра: `Математических основ управления (МОУ)`
+Кафедра: `Алгоритмов и технологий программирования (АТП)`
 
 
 ## Communication
 
-* [alerts channel](https://t.me/joinchat/AAAAAE1tPnqyy_MRW2vGcw)
-* [students chat](https://t.me/joinchat/Ak0SzlDRKN9CaS2pGDRQPg)
+* [alerts channel](https://t.me/joinchat/AAAAAFJPY3-ZXU9mWOaSGw)
+* [students chat](https://t.me/joinchat/Ak0SzlB3BQcHuqQc9ITfmg)
