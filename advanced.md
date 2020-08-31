@@ -25,7 +25,7 @@ are being published on [the dedicated branch](https://github.com/girafe-ai/ml-mi
 
 ## Credits (ECTS)
 
-Количество зачётных единиц: 2
+Количество зачётных единиц: 3
 
 Формальное название курса: `Прикладное Машинное обучение`
 
