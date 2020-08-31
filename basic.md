@@ -5,30 +5,29 @@ navigation: 2
 ---
 
 # Part one: basic
-This information is actual for Spring 2020 launch.
+This information is relevant for Fall 2020 launch.
 ## Schedule
 
-Place:
-1C training center, 
-Дмитровское шоссе, 9, [show on map](https://yandex.ru/maps/-/CGWnfBNd)
+**All classes in Fall 2020 are held online due to COVID-19**
 
-Lectures: every Tuesday, 09.00 to 10.20 at lecture room
+Lectures: every Modnay, 17.00 to 18.20 at 115КПМ
 
-Seminars: every Tuesday, 10.30 to 12.00 at classromms
+Seminars: every Monday, 18.30 to 20.00 at classromms (check in 115КПМ)
+ap](https://yandex.ru/maps/-/CGWnfBNd)
 
 ## Materials
 
-are being published on [the dedicated branch](https://github.com/girafe-ai/ml-mipt/tree/basic_s20)
+are being published on [the dedicated branch](https://github.com/girafe-ai/ml-mipt/tree/basic_f20)
 
 ## Credits (ECTS)
 
 Количество зачётных единиц: 3
 
-Формальное название курса: `Машинное обучение`
+Формальное название курса: `Введение в Машинное обучение`
 
-Кафедра: `Алгоритмов и технологий программирования (АТП)`
+Кафедра: `Математических основ управления (МОУ)`
 
 ## Communication
 
-* [alerts channel](https://t.me/joinchat/AAAAAFJPY3-ZXU9mWOaSGw)
-* [students chat](https://t.me/joinchat/Ak0SzlB3BQcHuqQc9ITfmg)
+* [alerts channel](https://t.me/joinchat/AAAAAFDGw7VYgNwZECx0mw)
+* [students chat](https://t.me/joinchat/Ak0SzkbLV6rLMA211xGeRg)
