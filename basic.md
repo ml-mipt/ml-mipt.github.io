@@ -28,5 +28,11 @@ are being published on [the dedicated branch](https://github.com/girafe-ai/ml-mi
 
 ## Communication
 
+### MIPT course:
 * [alerts channel](https://t.me/joinchat/AAAAAFDGw7VYgNwZECx0mw)
 * [students chat](https://t.me/joinchat/Ak0SzkbLV6rLMA211xGeRg)
+
+### Open course
+* TBD [alerts channel]()
+* [students chat](https://t.me/joinchat/Ak0Szhjs_V0j7aNgQoMTVg)
+
