@@ -5,34 +5,34 @@ navigation: 2
 ---
 
 # Part one: basic
-This information is relevant for Fall 2020 launch.
+This information is relevant for Winter-Spring 2021 launch.
 ## Schedule
 
-**All classes in Fall 2020 are held online due to COVID-19**
+**Until further notifications, all classes in Winter-Spring 2021 semester are held online due to COVID-19**
 
-Lectures: every Modnay, 17.00 to 18.20 at 115КПМ
+Location:
+1C training center, 
+Дмитровское шоссе, 9, [show on map](https://yandex.ru/maps/-/CGWnfBNd)
 
-Seminars: every Monday, 18.30 to 20.00 at classromms (check in 115КПМ)
+Lectures: every Tuesday, 09.00 to 10.20 at lecture room
+
+Seminars: every Tuesday, 10.30 to 12.00 at classromms
 
 ## Materials
 
-are being published on [the dedicated branch](https://github.com/girafe-ai/ml-mipt/tree/basic_f20)
+are being published on [the dedicated branch](https://github.com/girafe-ai/ml-mipt/tree/basic_s21)
 
 ## Credits (ECTS)
 
 Количество зачётных единиц: 3
 
-Формальное название курса: `Введение в Машинное обучение`
+Формальное название курса: `Машинное обучение`
 
-Кафедра: `Математических основ управления (МОУ)`
+Кафедра: `Алгоритмов и технологий программирования (АТП)`
+
 
 ## Communication
 
-### MIPT course:
-* [alerts channel](https://t.me/joinchat/AAAAAFDGw7VYgNwZECx0mw)
-* [students chat](https://t.me/joinchat/Ak0SzkbLV6rLMA211xGeRg)
-
-### Open course
-* TBD [alerts channel]()
-* [students chat](https://t.me/joinchat/Ak0Szhjs_V0j7aNgQoMTVg)
+* [alerts channel]() *TBD*
+* [students chat]() *TBD*
 
