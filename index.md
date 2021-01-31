@@ -20,7 +20,7 @@ It is designed to take one year (two terms at MIPT) - approximately 2 * 15 lectu
 
 ## Current launches
 
-As of Fall 2020 we have two tracks: [`basic`](basic.md) and [`advanced`](advanced.md).
+As of Winter-Spring 2021 we have two tracks: [`basic`](basic.md) and [`advanced`](advanced.md).
 
 ## Communication
 
