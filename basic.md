@@ -33,6 +33,6 @@ are being published on [the dedicated branch](https://github.com/girafe-ai/ml-mi
 
 ## Communication
 
-* [alerts channel]() *TBD*
-* [students chat]() *TBD*
+* [alerts channel](https://t.me/joinchat/WSqfS5_DaYxR51Vo)
+* [students chat](https://t.me/joinchat/ExG74aXeMFJmCHtq)
 
