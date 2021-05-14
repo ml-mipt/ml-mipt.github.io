@@ -106,10 +106,18 @@ Data Scientist at Skoltech; numerical analysis researcher. Previously worked  at
 Email: mikepautov@gmail.com
 
 
-## Ex-teaching assistants:
+## Former team members:
+
+### Arsenii Ashukha
+<img src="/img/senya-ashukha.jpeg" alt="Ashukha" height="200"/>
+
+Research Scientist at Samsung AI Center
+
+Arsenii was a lecturer and manager of the deep learning brunch of ml-mipt.github.io in 2016 and 2017. 
+
 
 ### Mokrov Nikita
-
+TA
 MIPT, Skoltech. Researcher at Skoltech. 
 
 Ex. Data Scientist at Diginetica, worked with Recommender Systems and implement their for retail companies. Also Nikita takes part in education project of machine and deep learning (e.g. DL School)
