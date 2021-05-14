@@ -113,6 +113,8 @@ Email: mikepautov@gmail.com
 
 Research Scientist at Samsung AI Center
 
+[`LinkedIn profile`](https://www.linkedin.com/in/senya-ashuha/)
+
 Arsenii was a lecturer and manager of the deep learning brunch of ml-mipt.github.io in 2016 and 2017. 
 
 
