@@ -38,7 +38,7 @@ Email: neychev@phystech.edu
 
 MIPT, Skoltech.
 
-Trains neural nets for [`VR games with BCI control`](https://impulse-neiry.com/). Previously worked on Computer Vision problems at MIPT.
+CV and ML team lead at [Evocargo](https://www.evocargo.com). Previously trained neural nets for [`VR games with BCI control`](https://impulse-neiry.com/) and worked on Computer Vision problems at MIPT.
 
 [`LinkedIn profile`](https://www.linkedin.com/in/vladislav-goncharenko/)
 
