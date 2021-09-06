@@ -5,34 +5,34 @@ navigation: 2
 ---
 
 # Part one: basic
-This information is relevant for Winter-Spring 2021 launch.
+This information is relevant for Fall 2021 launch.
 ## Schedule
 
-**Until further notifications, all classes in Winter-Spring 2021 semester are held online due to COVID-19**
 
 Location:
-1C training center, 
-Дмитровское шоссе, 9, [show on map](https://yandex.ru/maps/-/CGWnfBNd)
+МФТИ, Лабораторный корпус, Большая Химическая аудитория
 
-Lectures: every Tuesday, 09.00 to 10.20 at lecture room
+Lectures: every Monday, 17.05
 
-Seminars: every Tuesday, 10.30 to 12.00 at classromms
+Seminars: every Monday, 20.00
 
 ## Materials
 
-are being published on [the dedicated branch](https://github.com/girafe-ai/ml-mipt/tree/basic_s21)
+are being published on [the dedicated branch](https://github.com/girafe-ai/ml-mipt/tree/21f_basic)
 
 ## Credits (ECTS)
 
 Количество зачётных единиц: 3
 
-Формальное название курса: `Машинное обучение`
+Формальное название курса:
+* Для третьего курса: `Машинное обучение`
+* Для четвертого курса: `Введение в машинное обучение`
 
-Кафедра: `Алгоритмов и технологий программирования (АТП)`
+Кафедра: `Машинного обучения и цифровой гуманитаристики`
 
 
 ## Communication
 
-* [alerts channel](https://t.me/joinchat/WSqfS5_DaYxR51Vo)
-* [students chat](https://t.me/joinchat/ExG74aXeMFJmCHtq)
+* [alerts channel](https://t.me/joinchat/JSPcb1ZQqqM3MWUy)
+* [students chat](https://t.me/joinchat/0AYaFA1bWNQ1M2Vi)
 
